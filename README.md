@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junaid Khan</h1>
 <h3 align="center">A passionate Machine Learning and AI enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Langchain,GenAI**
+- 🌱 I’m currently learning **Langgraph,Agentic AI**
 
 - 📝 I regularly write articles on [https://medium.com/@khanj3991](https://medium.com/@khanj3991)
 
