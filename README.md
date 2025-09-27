@@ -26,11 +26,34 @@ I specialize in building **end-to-end Generative AI applications** – from fine
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**: Python, SQL  
-**AI/ML**: Transformers, LangChain, Hugging Face, TensorFlow, PyTorch, Scikit-learn  
-**Cloud & MLOps**: AWS Bedrock, Azure OpenAI, GCP Vertex AI, MLflow, Docker, Airflow  
-**Frameworks**: Streamlit, FastAPI, Flask  
+## 🛠️ Tech Stack  
+
+**Language **  
+- Python
+
+**Machine Learning & Deep Learning**  
+- Pandas, Numpy, Scikit-learn, TensorFlow, Keras, OpenCV, Spacy, NLTK
+
+**NLP & Generative AI**  
+- Transformers, Hugging Face, LangChain, LangGraph  
+- LLM Fine-Tuning (LoRA, QLoRA, PEFT)  
+- RAG (Retrieval-Augmented Generation)
+- Agentic AI systems 
+
+**MLOps & Deployment**  
+- MLflow, DVC, Docker, Git, Airflow
+- FastAPI, Flask, Streamlit  
+
+**Cloud AI Services**  
+- **AWS**: Bedrock, Lambda, SageMaker, S3, API Gateway ,Open Search Service 
+- **Azure**: Azure OpenAI, Cognitive Search, Functions , Azure Machine Learning
+  
+**Database & Vector Database**  
+- Sqlite, MongoDB, PineCone, Redis, Chroma
+
+**Visualization & Analytics**  
+- Matplotlib, PowerBI, Seaborn  
+
 
 ---
 
